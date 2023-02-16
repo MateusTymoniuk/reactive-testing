@@ -14,7 +14,7 @@ public class CompletableFlowTest {
     private CompletableFlow flow;
 
     @Mock
-    Dependency dependencyMock;
+    private Dependency dependencyMock;
 
     @Before
     public void setUp() {
